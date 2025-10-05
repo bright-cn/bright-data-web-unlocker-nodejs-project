@@ -1,7 +1,7 @@
 # Bright Data Web Unlocker Node.js 项目
 [![Bright Data 推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
 
-[在 StackBlitz 编辑器中编辑 ⚡️](https://stackblitz.com/~/github.com/luminati-io/bright-data-web-unlocker-nodejs-project?file=index.js)
+[在 StackBlitz 编辑器中编辑 ⚡️](https://stackblitz.com/~/bright-cn/luminati-io/bright-data-web-unlocker-nodejs-project?file=index.js)
 
 ## Bright Data Web Unlocker API 示例
 
